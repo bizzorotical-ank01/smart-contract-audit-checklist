@@ -1,6 +1,19 @@
-# Smart Contract Audit Checklist
+<h1 align="center">Smart Contract Audit Checklist</h1>
 
-A hands-on smart contract security toolkit demonstrating real-world vulnerabilities, exploits, and fixes using Hardhat.
+<p align="center">
+  A security-focused project demonstrating real-world smart contract vulnerabilities and their fixes using Hardhat.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-0.8.x-blue" />
+  <img src="https://img.shields.io/badge/Framework-Hardhat-yellow" />
+  <img src="https://img.shields.io/badge/Tests-Passing-brightgreen" />
+  <img src="https://img.shields.io/badge/Status-Complete-success" />
+   <img src="https://img.shields.io/badge/Focus-Audit--Checklist-blue" />
+<img src="https://img.shields.io/badge/Security-Defensive-green" />
+<img src="https://img.shields.io/badge/Use--Case-Smart--Contract--Auditing-purple" />
+</p>
+
 
 ---
 
